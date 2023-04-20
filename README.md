@@ -1,2 +1,7 @@
 # capstone1
-An e-commerce website template, but with GTLM, CSS, and Bootstrap
+At ReNew Tech, weoffer a wide range of affordable, high-quality electronic devices that have been restored to their original working condition. 
+ 
+
+
+
+
